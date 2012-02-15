@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  text: MyString
+  winner: false
+  author_id: 1
+  book_id: 1
+  winner: false
+
+two:
+  text: MyString
+  winner: false
+  author_id: 1
+  book_id: 1
+  winner: false

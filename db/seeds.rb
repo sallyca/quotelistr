@@ -1,0 +1,7 @@
+Quote.create!(text: "Matz")
+Quote.create!(text: "Yehuda Katz")
+Quote.create!(text: "DHH")
+Quote.create!(text: "Jose Valim")
+Quote.create!(text: "Dr Nic")
+Quote.create!(text: "John Nunemaker")
+Quote.create!(text: "Aaron Patterson")

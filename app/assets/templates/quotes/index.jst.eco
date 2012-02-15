@@ -1,0 +1,6 @@
+<h1>Lister</h1>
+<ul>
+<% for quote in @quotes.models: %>
+  <li><%= quote.get('text') %><li>
+<% end %>
+</ul>
